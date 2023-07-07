@@ -640,10 +640,7 @@ h2 { font-size: var(--fs-3); }
  */
  @media (min-width: 300px) {
   .input-wrapper {
-    position: absolute;
-    bottom: 30px;
-    left: 0;
-    right: 0;
+    bottom: 50px;
   }
  }
 @media (min-width: 550px) {
