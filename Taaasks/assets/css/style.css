@@ -638,7 +638,14 @@ h2 { font-size: var(--fs-3); }
 /**
  * responsive for larger than 550px screen
  */
-
+ @media (min-width: 300px) {
+  .input-wrapper {
+    position: absolute;
+    bottom: 30px;
+    left: 0;
+    right: 0;
+  }
+ }
 @media (min-width: 550px) {
 
   /**
