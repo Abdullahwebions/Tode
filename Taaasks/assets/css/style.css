@@ -715,7 +715,7 @@ h2 { font-size: var(--fs-3); }
    * MAIN
    */
   
-  .task-list { max-height: calc(90vh - 240px); }
+  .task-list { max-height: calc(80vh - 230px); }
 
   .input-wrapper {
     bottom: 20px;
